@@ -1,0 +1,24 @@
+body{
+	background-color: black;
+	color: floralwhite;
+}
+li{
+	list-style: none;
+	font-family: serif;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.container{
+	padding: 10px;
+	background-color: rgb(113, 4, 156);
+	color: white;
+	display: flex;
+	gap: 40px;
+	font-size: 20px;
+	border-radius: 20px;
+}
+.container{
+	justify-content: space-evenly;
+}
