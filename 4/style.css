@@ -1,0 +1,14 @@
+.newlist{
+    background-color: aquamarine;
+    color: black;
+    height: 150vh;
+    font-size: 20px;
+}
+.newlist li{
+    font-weight: bold;
+}
+h2{
+    margin-top: 10px;
+    padding: 30px;
+    
+}
